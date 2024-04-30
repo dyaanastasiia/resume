@@ -1,0 +1,270 @@
+body {
+  background: #f6f6fa;
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  color: #2979ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.wrapper {
+  background: #ffffff;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+ul {
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+/* MAIN CONTENT */
+
+.main-content {
+  padding-left: 88px;
+  padding-top: 80px;
+  padding-right: 40px;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+}
+.my-profession {
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.my-name {
+  color: #000;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 55px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+.my-discr {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.my-info {
+  margin-bottom: 40px;
+}
+
+/* PET-PROJECTS*/
+
+.pet-projects-title {
+  color: #000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 27px;
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+.pet-project-goit-item {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.pet-project-monobank-item {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.pet-project-makeup-item {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+/* WORK EXPERIENCE */
+
+.work-experience-title {
+  color: #000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 27px;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.responsibilities-list {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.achievements-list {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.company-name {
+  color: #6d9df5;
+}
+.work-experience-period {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+  margin-bottom: 8px;
+}
+
+/* EDUCATIONS */
+
+.educations-title {
+  color: #000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 27px;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.education-goit-item {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.education-diit-item {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.education-dtrek-item {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.goit-item {
+  color: #6d9df5;
+  font-weight: 700;
+}
+.diit-item {
+  color: #6d9df5;
+  font-weight: 700;
+}
+.dtrek-item {
+  color: #6d9df5;
+  font-weight: 700;
+}
+
+/* SIDEBAR */
+
+.sidebar {
+  background: #d2d3d4;
+  /* padding-top: 40px; */
+  padding-bottom: 40px;
+  box-sizing: border-box;
+  width: 370px;
+}
+.sidebar-content {
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
+}
+
+/* CONTACTS */
+
+.contacts-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.contacts-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+}
+.contacts-container {
+  margin-bottom: 40px;
+}
+.contact-list-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+/* TECH SKILLS */
+
+.skills-container {
+  margin-bottom: 40px;
+}
+.skills-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.skills-list-item {
+  color: #161d2a;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  padding-left: 0;
+}
+
+/* SOFT SKILLS */
+
+.soft-skill-container {
+  margin-bottom: 40px;
+}
+.soft-skill-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.soft-skill-list-item {
+  color: #161d2a;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+/* LANGUAGES */
+
+.languages-container {
+  margin-bottom: 40px;
+}
+.languages-title {
+  color: #161d2a;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.languages-list-item {
+  color: #161d2a;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
